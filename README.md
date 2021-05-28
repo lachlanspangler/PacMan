@@ -12,4 +12,4 @@ Educational purpose for myself, experimenting and finding my potential.
 I would like to further continue this project having him moving by command as well as vertically. Finally, I would love to code in the maze and ghosts.
 
 # License
-Copyright (c) 2020 John Williams. Free usage for MITxPro Professional Certificate in Coding: Full Stack Development with MERN.
+Copyright (c) 2020 Lachlan Spangler. Free usage for MITxPro Professional Certificate in Coding: Full Stack Development with MERN.
